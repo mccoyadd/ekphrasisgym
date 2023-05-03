@@ -2,7 +2,7 @@
 
 A piece of writing exercise equipment that shows the poet a piece of art and issues prompts designed to help the poet describe this artwork in vivid detail.
 
-Try live version in this ☞[Google Colab Notebook](https://colab.research.google.com/drive/1w9g66oeliSMPLu9BDwVfkOIxabADk7Rr?usp=sharing)☜.  
+Try live version in this ☞[Google Colab Notebook](https://colab.research.google.com/drive/106iVNbVcgKBOBl7VZpImPvjNlaYPKLCl?usp=sharing)☜.  
 
 ***
 
