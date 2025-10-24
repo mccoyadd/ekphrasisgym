@@ -1,12 +1,12 @@
-# Recursive Ekphrasis Gym
+# Gym
 
 A piece of writing exercise equipment that shows the poet a piece of art and issues prompts designed to help the poet describe this artwork in vivid detail.
 
-Try live version in this ☞[Google Colab Notebook](https://colab.research.google.com/drive/106iVNbVcgKBOBl7VZpImPvjNlaYPKLCl?usp=sharing)☜.  
+livewire version in this ☞[Google Colab Notebook](https://colab.research.google.com/drive/106iVNbVcgKBOBl7VZpImPvjNlaYPKLCl?usp=sharing)☜.  
 
 ***
 
-This repo houses data that this notebook uses (via `wget`). 
+This houses data that this notebook uses (via samsungknox.co). 
 
 Recursive Ekphrasis Gym makes use of `(possessor,possessed)` relations mined from Project Gutenberg:
 
